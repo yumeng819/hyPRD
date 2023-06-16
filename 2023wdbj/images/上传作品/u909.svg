@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="5307 282.5  12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 5313 282.5  C 5316.36 282.5  5319 285.14  5319 288.5  C 5319 291.86  5316.36 294.5  5313 294.5  C 5309.64 294.5  5307 291.86  5307 288.5  C 5307 285.14  5309.64 282.5  5313 282.5  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-  <path d="M 5313 283  C 5316.08 283  5318.5 285.42  5318.5 288.5  C 5318.5 291.58  5316.08 294  5313 294  C 5309.92 294  5307.5 291.58  5307.5 288.5  C 5307.5 285.42  5309.92 283  5313 283  Z " stroke-width="1" stroke="#009688" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="396px" height="140px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -4381 -681 )">
+    <path d="M 4382 685  A 3 3 0 0 1 4385 682 L 4773 682  A 3 3 0 0 1 4776 685 L 4776 817  A 3 3 0 0 1 4773 820 L 4385 820  A 3 3 0 0 1 4382 817 L 4382 685  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 4381.5 685  A 3.5 3.5 0 0 1 4385 681.5 L 4773 681.5  A 3.5 3.5 0 0 1 4776.5 685 L 4776.5 817  A 3.5 3.5 0 0 1 4773 820.5 L 4385 820.5  A 3.5 3.5 0 0 1 4381.5 817 L 4381.5 685  Z " stroke-width="1" stroke="#333333" fill="none" stroke-opacity="0.658823529411765" />
+  </g>
 </svg>

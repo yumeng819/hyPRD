@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="479px" height="109px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -2202 -1789 )">
-    <path d="M 2203 1793  A 3 3 0 0 1 2206 1790 L 2677 1790  A 3 3 0 0 1 2680 1793 L 2680 1894  A 3 3 0 0 1 2677 1897 L 2206 1897  A 3 3 0 0 1 2203 1894 L 2203 1793  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 2202.5 1793  A 3.5 3.5 0 0 1 2206 1789.5 L 2677 1789.5  A 3.5 3.5 0 0 1 2680.5 1793 L 2680.5 1894  A 3.5 3.5 0 0 1 2677 1897.5 L 2206 1897.5  A 3.5 3.5 0 0 1 2202.5 1894 L 2202.5 1793  Z " stroke-width="1" stroke="#333333" fill="none" stroke-opacity="0.658823529411765" />
-  </g>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="2394 1260.5  12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 2400 1260.5  C 2403.36 1260.5  2406 1263.14  2406 1266.5  C 2406 1269.86  2403.36 1272.5  2400 1272.5  C 2396.64 1272.5  2394 1269.86  2394 1266.5  C 2394 1263.14  2396.64 1260.5  2400 1260.5  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+  <path d="M 2400 1261  C 2403.08 1261  2405.5 1263.42  2405.5 1266.5  C 2405.5 1269.58  2403.08 1272  2400 1272  C 2396.92 1272  2394.5 1269.58  2394.5 1266.5  C 2394.5 1263.42  2396.92 1261  2400 1261  Z " stroke-width="1" stroke="#009688" fill="none" />
 </svg>
